@@ -1,0 +1,37 @@
+{
+  "Tasks": [
+    {
+      "task": "Kiran",
+      "status": "pending",
+      "id": 1
+    },
+    {
+      "task": "karan",
+      "status": "pending",
+      "id": 2
+    },
+    {
+      "task": "karan 123",
+      "status": "pending",
+      "id": 3
+    }
+  ],
+  "NewStudent": [
+    {
+      "name": "Swapnil Kashyap 1",
+      "email": "swapnilkashyap96@gmail.com",
+      "password": "9213713009",
+      "dob": "2023-03-08",
+      "contact": "9213713009",
+      "id": 1
+    },
+    {
+      "name": "Shanshank",
+      "email": "shashank@gmail.com",
+      "password": "324324234",
+      "dob": "1997-04-27",
+      "contact": "8882144620",
+      "id": 3
+    }
+  ]
+}
